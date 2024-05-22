@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "S7X7V9YPX7.com.webEngage.prodSwift"
+        ],
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
